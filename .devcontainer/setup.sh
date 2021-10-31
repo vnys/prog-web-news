@@ -1,1 +1,1 @@
-npm install -g serve
+npm install -g serve lighthouse
